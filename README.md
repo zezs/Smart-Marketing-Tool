@@ -1,4 +1,4 @@
 # Smart-Marketing-Tool
 Powered by LLMs
 
-![image](https://github.com/zezs/Smart-Marketing-Tool/assets/115359735/b78b1837-6871-4d3e-8476-76604923a4dd)
+![image](https://github.com/zezs/Smart-Marketing-Tool/assets/115359735/d84f7bf8-8b51-4e3a-a6a0-88d4294a1591)
